@@ -1,0 +1,6 @@
+{
+  "name": "Emerald Chat",
+  "description": "A modern, secure messaging application inspired by WhatsApp written in Kotlin and Jetpack Compose featuring real-time messaging, end-to-end encryption, status updates, media sharing, and group chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
